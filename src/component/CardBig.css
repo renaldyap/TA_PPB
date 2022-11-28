@@ -1,0 +1,34 @@
+.containerBig {
+    padding-left: 20px;
+    
+  }
+  
+  .posterBig {
+    width: 180px;
+    height: 230px;
+    border-radius: 12px;
+    object-fit: cover;
+    align-items: center;
+  }
+  
+  .descriptionBig {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  #tile {
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+    font-family: Verdana;
+  }
+  
+  #type_comic {
+    color: rgb(128, 128, 128);
+    font-family: Verdana;
+    font-weight: 500;
+    font-size: 10px;
+    margin-top: 5px;
+  }
+  

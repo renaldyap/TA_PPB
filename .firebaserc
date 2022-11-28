@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "tappb-eec01",
+    "y": "tappb-eec01",
+    "staging": "tappb-eec01"
+  },
+  "targets": {},
+  "etags": {}
+}
