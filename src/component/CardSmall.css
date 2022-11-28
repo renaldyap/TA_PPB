@@ -1,0 +1,114 @@
+.card {
+  width: 175px;
+  height: fit-content;
+  box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 16px;
+  margin: 0 px 20px 0;
+
+  }
+  
+  .figure {
+    width: 100%;
+  border-radius: 24px;
+  }
+  img {
+    width: 130px;
+    height: 150px;
+    border-radius: 12px;  
+    object-fit: cover;
+  }
+  
+  p {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  .ph {
+    display: flex;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 190px;
+    height: 250px;
+    border-radius: 10px;
+    object-fit: cover;
+  }
+  .des {
+    display: flex;
+    padding-left: 20px;
+    flex-direction: column;
+    justify-content: space-around;
+  }
+  
+  
+  .description {
+    height: 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 9px 12px;
+  }
+  
+  #title {
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+    font-weight: bold;
+    font-family: Verdana;
+  }
+  #nama {
+    display: flex;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 50px;
+    justify-content: center;
+  }
+  #nim {
+    display: flex;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    justify-content: center;
+}
+#jur {
+    display: flex;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    justify-content: center;
+}
+  #pf {
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: arial;
+    
+  }
+  
+  #genre {
+    color: grey;
+    font-family: Verdana;
+    font-weight: 500;
+    font-size: 12px;
+    margin-top: 5px;
+  }
+  #lj{
+    display: flex;
+    justify-content: center;
+    color: rgb(110, 222, 222);
+    font-size: 50px;
+    font-weight: bold;
+    font-family:   Algerian;
+  }
+  #rs {
+    color: rgb(171, 220, 97);
+    font-family:  sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    margin-top: 5px;
+  }
+  

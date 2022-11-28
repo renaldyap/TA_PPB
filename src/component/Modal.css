@@ -1,0 +1,48 @@
+/* index.css */
+.modal-bg {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    width: 100vw;
+    background-color: #000000;
+    opacity: 0.8;
+  }
+  .modal {
+    width: 90vw;
+    height: 90vw;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+    background: rgb(240, 211, 211);
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+  .hidden {
+    display: none;
+  }
+
+  h3 {
+    font-size: 13px;
+    font-weight: bold;
+  }
+  
+  #tle {
+    color: rgb(126, 200, 35);
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Verdana;
+    margin-bottom: 10px;
+  }
+  #te {
+    color: rgb(16, 16, 16);
+    font-size: 12px;
+    font-weight: bold;
+    font-family: Verdana;
+  }
+  
